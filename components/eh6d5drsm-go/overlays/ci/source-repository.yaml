@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: eh6d5drsm-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/eh6d5drsm-go
